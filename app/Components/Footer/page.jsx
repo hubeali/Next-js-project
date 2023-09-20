@@ -95,7 +95,7 @@ const Footer = () => {
               </div>
             </div>
           </div>
-{/*           <hr className='hr-1' /> */}
+
         </div>
 
         <div className='container'>
