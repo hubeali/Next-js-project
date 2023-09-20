@@ -31,7 +31,6 @@ const Footer = () => {
                   </h3>
                 </div>
 
-
                 <button className='btn-start-project'>START PROJECT NOW</button>
 
               </div>
@@ -96,7 +95,7 @@ const Footer = () => {
               </div>
             </div>
           </div>
-          <hr className='hr-1' />
+{/*           <hr className='hr-1' /> */}
         </div>
 
         <div className='container'>
